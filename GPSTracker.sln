@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GPSTracker", "GPSTracker.csproj", "{5C8CA418-C02D-4819-951A-F3FC2F1F4414}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{5C8CA418-C02D-4819-951A-F3FC2F1F4414}.Debug.ActiveCfg = Debug|.NET
+		{5C8CA418-C02D-4819-951A-F3FC2F1F4414}.Debug.Build.0 = Debug|.NET
+		{5C8CA418-C02D-4819-951A-F3FC2F1F4414}.Release.ActiveCfg = Release|.NET
+		{5C8CA418-C02D-4819-951A-F3FC2F1F4414}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
